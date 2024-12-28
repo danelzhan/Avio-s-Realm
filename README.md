@@ -1,6 +1,5 @@
-# Avio-s-Realm
 <h1>Avio's Realm</h1>
-Originally created for a Computer Science 12 class with Steven Xiao and Adrian Chen in 2022, Avio's Realm is a simple 2D platformer made entirely in vanilla Java. The gameplay and visuals were both heavily inspired by Celeste, which will be evident throughout the gameplay.
+Originally created for a Computer Science 12 class with Steven Xiao and Adrian Chen in 2022, Avio's Realm is a simple 2D platformer made entirely in vanilla Java. The gameplay and visuals were both heavily inspired by Celeste, which will be evident throughout the gameplay. If you want to take a look at the game, take a look at <a href="https://youtu.be/jBXXxTG7a9s">this playthrough</a>! (ignore the numerous deaths T-T)
 
 <h1>Game Play and Controls</h1>
 Controls are available upon launch of the game, standard WASD movement is used.
